@@ -1,4 +1,1 @@
-Case 1: WA
-0a1
-> Hello, World!
-
+Case 1: AC, time=0.000s, memory=3632KB
